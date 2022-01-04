@@ -1,14 +1,14 @@
 {
-  "name": "NFT CERTIFICATE",
+  "name": "NFT Buzz",
   "description": "In NON FUNGIBLE we trust.",
-  "image": "https://gateway.pinata.cloud/ipfs/QmSuNWjMXBedCcjxWqLpzSD44amyGFm7Sb53x1Jza77EGV",
+  "image": "https://gateway.pinata.cloud/ipfs/QmT814fDw5Ez1ZZktc96xBXj64rvEtAVRHrszDciCFSTCd?preview=1",
   "attributes": [
     {
-      "trait_type": "Bro",
+      "trait_type": "you",
       "value": "Supporter Type"
     },
     {
-      "trait_type": "Youtube Video",
+      "trait_type": "face",
       "value": "Viewed"
     }
   ]
